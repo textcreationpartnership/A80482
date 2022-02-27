@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter sent from the agitators of his Excellency Sir Thomas Fairfax's armie, to all the honest sea-men of England: heartily and cordially declaring their reall intentions to the peace and prosperity of the kingdome, and the firme setling and establishing of all the just interests thereof, into the hands and possessions the right owners of them. Dated at S. Albans 21. June 1647. Published by the order and speciall desire of the said agitators.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80482</idno>
+            <idno type="STC">Wing C6146</idno>
+            <idno type="STC">Thomason E393_33</idno>
+            <idno type="STC">ESTC R201611</idno>
+            <idno type="EEBO-CITATION">99862111</idno>
+            <idno type="PROQUEST">99862111</idno>
+            <idno type="VID">114260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114260)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter sent from the agitators of his Excellency Sir Thomas Fairfax's armie, to all the honest sea-men of England: heartily and cordially declaring their reall intentions to the peace and prosperity of the kingdome, and the firme setling and establishing of all the just interests thereof, into the hands and possessions the right owners of them. Dated at S. Albans 21. June 1647. Published by the order and speciall desire of the said agitators.</title>
+                  <author>Audley, Lewes.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end by Lewes Audley and 23 others.</note>
+                  <note>Annotation on Thomason copy: "June 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Sailors --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114260:1" rendition="simple:additions"/>
+            <p>A Copie of a LETTER SENT From the <hi>Agitators</hi> of his Excellency Sir <hi>Thomas Fairfax</hi>'s <hi>Armie,</hi> TO All the honeſt Sea-men of England: Heartily and cordially declaring their reall intentions to the peace and proſperity of the King<g ref="char:EOLhyphen"/>dome, and the firme ſetling and eſtabliſhing of all the juſt Intereſts thereof, into the hands and poſseſ<g ref="char:EOLhyphen"/>ſions the right Owners of them.</p>
+            <p>
+               <hi>Dated at S. Albans</hi> 21. <hi>June</hi> 1647.</p>
+            <p>Publiſhed by the Order and ſpeciall deſire of the ſaid Agitators.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>R. A.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114260:2"/>
+            <pb n="1" facs="tcp:114260:2"/>
+            <head>A Letter from the Army to all the honeſt Seamen of England.</head>
+            <opener>
+               <salute>Honoured and deare Friends,</salute>
+            </opener>
+            <p>THe great deſigne of our Enemies being to divide, (and ſo to deſtroy) we conceive it the maine buſineſſe of friends to unite, and ſo to ſpoile that deſigne: Now the wayes that are at this day, taken to divide, are miſrepreſen<g ref="char:EOLhyphen"/>tations of perſons and actions (eſpecially of us and ours) to the Kingdome, which that we may prevent, we ſhall endea<g ref="char:EOLhyphen"/>vour to informe you (our noble and faithfull friends) of the ſtate of things as followeth: Some five yeares ſince we by Land and you by Sea, upon the apprehenſion of apparent danger to the Kingdome, were invited to put our ſelves in<g ref="char:EOLhyphen"/>to a poſture of defence, for the preventing and ſuppreſſing of that power then riſing, which threatned the Kingdomes ruine, for the avoyding of which (at preſent) and ſetling an eſtabliſhment (for the future) of all the free-borne people of England, in the enjoyment of their juſt Rights and Privi<g ref="char:EOLhyphen"/>ledges, (which was one of the ends of our taking up of Arms) we went with cheerfulneſſe to the worke, and after many a ſore encounter that you and we have had by Sea and Land, at laſt (by the bleſſing of God) came to the end of our worke, hoping now (after ſuch a long and weary journey) to have taken up our reſt, and have ſet down quietly under our vines, and with the reſt of the Kingdome to have enjoyed the fruit of our ſore travells, but contrary to our expectation and to the amazement and ſaddening of our ſpirits, we finde our ſelves in as bad or worſe condition now, then formerly, being denied and deprived of that undoubted right and priviledge which the Subjects of England, in the worſt of times, hardly ever were <hi>(viz.)</hi> petitioning, nay, not onely denied of, but
+<pb n="2" facs="tcp:114260:3"/>
+declared againſt as enemies, for making uſe of thoſe meanes we were directed to in caſe of grievances, and ſo we are now made compleatly miſerable. When we ſee this, we knew whoſe hand was in it, namely, that here was the ſame perſons and principles working our ruine as formerly, onely in ano<g ref="char:EOLhyphen"/>ther forme, before by power and open hoſtility, and now by craft, and policy; which cauſed us to draw up a Vindication of the afore-ſaid intended Petition, yet notwithſtanding our Vindication we ſtill lie under a ſentence of condemnation as enemies to the State. Then we drew up a Letter to the Gene<g ref="char:EOLhyphen"/>rall, the Lievtenant-Generall, and the Major-Generall, in which was laid open the ſad condition how neere ruine and deſtruction we were, and the cauſes of it, as we apprehended, and this we did to incite them to improve all the intereſt they had in or with any, for us, to prevent the enſuing de<g ref="char:EOLhyphen"/>ſtruction, eſpecially ſince we could not be heard in our Peti<g ref="char:EOLhyphen"/>tion, but this Letter was conceived to be of dangerous conſe<g ref="char:EOLhyphen"/>quence, and ſo preſented to the Houſe, where (after ſome debates) the reſults were to ſend downe Commiſſioners to the Army, to take a view of the diſtempers reported to bee in it, and to receive their grievances, and preſent them to the Houſe.</p>
+            <p>This a little revived us, hoping we ſhould have them heard and redreſſed, but ſuddenly after the receiving of them (with<g ref="char:EOLhyphen"/>out the full redreſsing of any one of them) we were voted to be disbanded piece-meale, apart, one Regiment from ano<g ref="char:EOLhyphen"/>ther, ſo as never any faithfull Army was, being marked out for deſtruction, wanting nothing but disbanding to haſten ex<g ref="char:EOLhyphen"/>ecution. Hearing of this we drew up a Petition to our Ge<g ref="char:EOLhyphen"/>nerall to have a Rendezvouz, at which we might adviſe what was beſt to be done (for our owne and the Kingdomes ſafe<g ref="char:EOLhyphen"/>ty) in this caſe, and there entred into a Contract, a copie of which we have here ſent you.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:114260:3"/>
+               <head>A ſolemne engagement of the Army, under the Command of his Excellency Sir <hi>Thomas Fairfax,</hi> read, aſſented unto, and ſubſcribed by all Officers, and Souldiers of the ſeverall Regi<g ref="char:EOLhyphen"/>ments, at the generall Rendezvouz neare Newmarket, on the fift of June, <hi>1647.</hi>
+               </head>
+               <p>WHereas upon the Petition intended and agreed upon in the Army, in <hi>March</hi> laſt, to have been preſented to the Generall, for the obtaining of our due and neceſſary concernments as Souldiers; the Honorable Houſe of <hi>Commons</hi> being unſeaſonably prepoſſeſſed with a Copie thereof, and (as by the ſequell we ſuppoſe) with ſome ſtrange miſrepreſentations of the carriage and intentions of the ſame, was induced to ſend downe an Order for ſurpreſſing the Petition, and within two or three dayes after, upon further miſinformation, and ſcandalous ſuggeſtions, of the like or worſe nature, and by the indirect practiſe of ſome malitious and miſchievous perſons (as we ſuppoſe) ſurprizing or other wiſe abuſing the <hi>Parliament.</hi> A Declaration was pub<g ref="char:EOLhyphen"/>liſhed in the name of both Houſes, highly cenſuring the ſaid Petition, and declaring the Petitioners, if they ſhould proceed thereupon, no leſſe then enemies to the State, and diſturbers of the publick peace. And whereas at the ſame time and ſince, divers eminent Officers of the Army have been brought into queſtion and trouble about the ſaid Petition, whereby both they and the reſt of the Officers were diſabled, or diſcouraged for the time, from further acting or appearing therein on the ſouldiers behalfe; And wheras by the aforeſaid proceedings and the effects thereof, the ſouldiers of this Army (finding themſelves ſo ſtopt in their due, and regular way of making knowne their juſt greivances, and deſires to, and by their Officers) were enforced to an unuſuall (but in that caſe neceſſary) way of correſpondence and agreement amongſt themſelves, to chuſe out of the ſeverall Troops and Compa<g ref="char:EOLhyphen"/>nies ſeverall men, and thoſe out of their whole number, to
+<pb n="4" facs="tcp:114260:4"/>
+chuſe two or more for each Regiment, to act in the name and behalfe of the whole ſouldiery of the reſpective Regiments Troops and Companies, in the proſecution of their rights and deſires in the ſaid Petition, as alſo of their juſt vindication and writing in reference to the aforeſaid proceedings upon and againſt the ſame, who have accordingly acted and done many things, to thoſe ends, all which the ſouldiers did then approve as their owne acts.</p>
+               <p>And whereas afterwards (upon the ſudden ſending down of Field-Marſhall <hi>Skippon,</hi> and thoſe other Officers of the Army that were Members of the Houſe of Commons, to qui<g ref="char:EOLhyphen"/>et diſtempers in the Army, freſh hopes being conceived of having our deſires again admitted to be made known, and conſidered in a regular way, and without ſuch miſrepreſenta<g ref="char:EOLhyphen"/>tions as formerly, the Officers and Souldiers of the Army (ex<g ref="char:EOLhyphen"/>cept ſome few diſsenting Officers) did againe joyne in a re<g ref="char:EOLhyphen"/>preſentation of their common grievances, and the Officers (except as before) did agree upon a narrative Accompt of the grounds, riſe and growth of the diſcontents in the Army, and their proceedings in relation thereunto, with an overture of the beſt expedients, to remove or ſatisfie the ſame; both which were preſented to the ſame Members of the Houſe, and by them reported to the Houſe. And wheras the Parliament having thereupon voted, and ordered ſome particulars, onely towards ſatisfaction of our grievances, hath ſince proceeded to certain reſolutions of ſudden disbanding the Army by pee<g ref="char:EOLhyphen"/>ces; which reſolutions being taken, and to be executed, before full or equall ſatisfaction given to the whole Army in any of the grievances, before effectuall performance of that ſatiſ<g ref="char:EOLhyphen"/>faction in part, which the preceding Votes ſeem'd to promiſe, as to ſome of the grievances, and before any conſideration at all of ſome others moſt materiall, (as by the reſult of a gene<g ref="char:EOLhyphen"/>rall Councell of Warre on Saturday <hi>May</hi> 29. was in generall declared, and is now more fully demonſtrated in particular, by a repreſentation thereupon, agreed unto by us: we all cannot but look upon the ſame reſolutions of disbanding us in ſuch manner, as proceeding from the ſame malicious and miſchie<g ref="char:EOLhyphen"/>vous principles and intentions, and from the like indirect
+<pb n="5" facs="tcp:114260:4"/>
+practiſes of the ſame perſons abuſing the Parliament, and is as the former proceedings againſt us before mentioned did, and not without carnall and bloody purpoſes (for ſome of them have not ſtuck to declare or intimate) after the body of the Army ſhould be disbanded, or the Souldiers divided from their Officers, then to queſtion, proceed againſt, and execute their malicious intentions upon all ſuch particular Officers and Souldiers in the Army, as had appeared to act in the Pre<g ref="char:EOLhyphen"/>miſes in the behalfe of the Army: And whereas upon a late Petition to the Generall from the Agitants, in behalfe of the Souldiers (grounded upon the preceding conſiderations, re<g ref="char:EOLhyphen"/>lating to the ſame reſolutions of disbanding, the ſame gene<g ref="char:EOLhyphen"/>rall Councell of Warre to prevent the danger and inconve<g ref="char:EOLhyphen"/>niences of thoſe diſturbings, or tumultuous actings or conflu<g ref="char:EOLhyphen"/>ences which the diſ-ſatisfaction and jealouſie thereupon alſo grounded, were like ſuddenly to have produced in the Army, to adviſe the Generall firſt to contract the Quarters of the Army, and then to draw the ſame to an orderly <hi>Rendezvouz</hi> for the ſatisfaction of all, and that his Excellency would im<g ref="char:EOLhyphen"/>mediately ſend up to move and deſire the Parliament to ſuſ<g ref="char:EOLhyphen"/>pend any preſent proceeding upon the ſaid reſolution of diſ<g ref="char:EOLhyphen"/>banding, to reſume the conſideration of the grievances, and deſire, ſent up from the Army, and not to disband it in pieces before juſt and equall ſatisfaction given to the whole; And whereas ſome of the Regiments appointed for disbanding, upon notice thereof withdrawing themſelves from the Quar<g ref="char:EOLhyphen"/>ters adjacent to the appointed Rendezvouz, and drawing to<g ref="char:EOLhyphen"/>wards the Head Quarters; and the contracting their Quar<g ref="char:EOLhyphen"/>ters, according to the ſaid advice of the Councel of War.</p>
+               <p>We the Officers and Souldiers of ſeverall Regiments here after-named, are now met at a generall Rendezvouz, and the Regiments appointed as afore-ſaid to be disbanded, have not appeared, nor can appeare; but are reſolved not to ap<g ref="char:EOLhyphen"/>peare at the ſeverall and reſpective Rendezvouz, appointed as aforeſaid for their disbanding; and divers other things have been done by ſeverall other parties or members of the Army, neceſſarily relating to the good and concernment of the whole in thoſe affaires: Now for as much as wee know
+<pb n="6" facs="tcp:114260:5"/>
+not how far the malice, Injuſtice, and Tiranicall Principles of our enemies, that have already prevailed ſo far to abuſe the Parliament and the Army (as is afore mentionid) in the paſt proceedings againſt the Army may further prevaile to the danger and prejudice of our ſelves, or any Officers, or Souldi<g ref="char:EOLhyphen"/>ers of the Army, or other perſons that have appeared to act any thing in behalfe of the Army, or how far the ſame may further prevaile to the danger or prejudice of the Kingdome in raiſing a new warre, or otherwiſe: Therefore for the better prevention of all ſuch dangers, prejudices, or other inconveni<g ref="char:EOLhyphen"/>ences that may enſue; and withall for better ſatisfaction to the Parliament and Kingdome, concerning our deſires of con<g ref="char:EOLhyphen"/>forming to the authority of the one, and providing the good and quiet of the other, in the preſent affaires of disbanding, and for a more aſſured way whereby, that affaires may come to a certaine iſſue, (to which purpoſe we herein humbly implore the preſent and continued aſſiſtance of God, the Righteous Iudge of all) wee the Officers and Souldiers of the Army ſubſcribing hereunto; doe hereby declare, agree, and promiſe, to and with each other, and to, and with the Parliament and Kingdome as followeth.</p>
+               <p n="1">1. That wee ſhall chearfully and readily disband when thereunto required by the Parliament, or elſe ſhall many of us be willing (if deſired) to ingage in further Services ei<g ref="char:EOLhyphen"/>ther in <hi>England</hi> or <hi>Ireland,</hi> having firſt ſuch ſatisfaction to the Army in relation to our grievances and deſires hereto<g ref="char:EOLhyphen"/>fore preſented, and ſuch ſecurity, That we of our ſelves, when disbanded, and in the condition of private men, or other the free-borne people of <hi>England,</hi> to whom the conſequence of our caſe doth equally extend, ſhall not remaine ſubject to the like oppreſsion, injury, or abuſe, as in the premiſſes hath been attempted and put upon us, while an Army by the ſame mens continuance, in the ſame credit and power, eſpecially if as our Judges, who have in theſe paſt proceedings againſt the Army ſo farre prevailed to a<g ref="char:EOLhyphen"/>buſe the Parliament and us, and to endanger the Kingdome; and alſo ſuch ſecurity that we our ſelves, or any member
+<pb n="7" facs="tcp:114260:5"/>
+of this Army or others, who have appeared to act any thing in behalf of the Army, in relation to the premiſes before recited, ſhall not after disbanding be any way queſtioned, proſecuted, troubled, or prejudiced for any thing ſo acted, or for the entring into, or neceſſary proſecution of this ne<g ref="char:EOLhyphen"/>ceſſary agreement: (we ſay) having firſt ſuch ſatisfaction and ſecurity in theſe things as ſhall be agreed unto by a Councell to conſiſt of thoſe generall Officers of the Army (who have concurred with the Army in the premiſſes) with two Commiſſion Officers and two Souldiers to be choſen for each Regiment, who have concurred and ſhall concur with us in the premiſſes and in this agreement. And by the major part of ſuch of them who ſhal meet in Councel for that purpoſe when they ſhal be thereunto called by the Ge<g ref="char:EOLhyphen"/>neral.</p>
+               <p n="2">2. That without ſuch ſatisfaction and ſecurity, as aforeſaid, we ſhal not willingly disband, nor divide, nor ſuffer our ſelves to be disbanded or divided.</p>
+               <p>And whereas we find many ſtrange things ſuggeſted or ſuſpected to our great prejudice concerning dangerous prin<g ref="char:EOLhyphen"/>ciples, intereſts and deſigns in this Army (as to the over<g ref="char:EOLhyphen"/>throw of Magiſtracy, the ſuppreſſion or hindering of Preſ<g ref="char:EOLhyphen"/>bytery, the eſtabliſhment of Independent government, or upholding of a general licentiouſneſs in Religion under pre<g ref="char:EOLhyphen"/>tence of Liberty of Conſcience, and many ſuch things; we ſhal very ſhortly tender to the Parliament a Vindication of the Army from all ſuch ſcandals to clear our Principles in re<g ref="char:EOLhyphen"/>lation thereunto, and in the mean time we do diſavow and diſclaim all purpoſes or deſigns in our late or preſent pro<g ref="char:EOLhyphen"/>ceedings to advance o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inſiſt upon any ſuch intereſt, neither would we (if we might and could) advance or ſet up any other particular party or intereſt in the Kingdom (though imagined never ſo much our own) but ſhal much rather (as far as may be within our ſphear or power) ſtudy to promote ſuch an eſtabliſhment of common and equal right and free<g ref="char:EOLhyphen"/>dom to the whole, as all might equally partake of but thoſe that do by denying the ſame to others, or otherwiſe render themſelves incapable thereof. <hi>FINIS</hi>
+               </p>
+               <p>
+                  <pb n="8" facs="tcp:114260:6"/>After this we were commanded to a Rendezvouz by the Parliament and Commiſſioners ſent down with ſome Votes tending to ſatisfaction in part, wherein did remain diſſatiſ<g ref="char:EOLhyphen"/>faction at preſent (even to thoſe particular grievances there related) and not ſecurity for the future by any thing yet done, eſpecially knowing thoſe were remaining with power in their hands, who could undo all they had done for us, or do as much more againſt us it d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sbanded, as may appear in our late D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>claration 14. <hi>Iune</hi> 1647. To which we refer you. And therefore the Cry of the whole Army and divers Coun<g ref="char:EOLhyphen"/>ties alſo (by their addreſſes to his Excellency) was not ſo much for the taking of the preſent ſad effects from us, as for the removal of that Cauſe which had (at preſent) and would (for the future) produce the like (if not worſe) miſchief<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s as appeared by the unanimous voyce of the whole Army, cry<g ref="char:EOLhyphen"/>ing out, Juſtice, Juſtice; Juſtice againſt thoſe perſons who have falſly aſperſed us, againſt thoſe who have abuſed the truſt repoſed in them; and Juſtice upon thoſe from whom we can expect no ſecurity, but rather deſtruction; which main deſire (once granted) would beget ſatisfaction, and then, and not till then, can we lay down Arms with ſafety: Thus we have preſented you with our condition for your informa<g ref="char:EOLhyphen"/>tion. Now we deſire you and all rational men to judg, and the God of Heaven and Earth be Judg (between u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and thoſe perſons who have acted againſt us) whether ever we have deſerved ſuch things at their hands, who have not thought any thing too dear to part with or lay down for their ſakes, looking upon them as perſons intruſted by and acting for the Weal (not the Woe) of this Kingdom, and though we have ſuffered much from, and been deprived much by our open Enemies, yet did ſtill expect our profeſſed friends would have dealt better with us, and little thought to have had ſuch a portion from them as to be declared Ene<g ref="char:EOLhyphen"/>mies to the State, even while we were an Army having pow<g ref="char:EOLhyphen"/>er in our hands, and they having further occaſions to uſe us: To have this done againſt us, what will be done if all thoſe conſiderations were removed? Therefore conſider what it is we ſeek, even that which all creatures of the world do (and
+<pb n="9" facs="tcp:114260:6"/>
+Man, the chiefeſt of all creatures, cannot but do;) <hi>viz.</hi> ſelf-preſervation, in avo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ding that deſtruction which is like (if not prevented) to fall on us and the whole Kingdom with us, as it muſt needs do, if (when lying under many preſſures and grievances as we queſtion no but you (as wel as we) and thouſands others in the Kingdom do) we may not pe<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion for redreſs, but muſt be voted Enemies; judge you what this wants of the perfection of ſla<g ref="char:EOLhyphen"/>very, which, we hope, is the real deſires of us all to prevent. And we aſſure you upon the faith of honeſt Men and Souldi<g ref="char:EOLhyphen"/>ers, that (what ever may be ſuggeſted to you by any) we have no other aymes, but that Juſtice might act in all its parts and to all its ends, as elating to all eſtates and perſons in the Kingdom that the yokes of Oppreſſion might be ta<g ref="char:EOLhyphen"/>ken off the nec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of all and Juſtice equally diſtributed to all, and the rights of any (though now detained from them) reſtored, and ſettled upon them, that ſo they might not be taken from them unleſs they diſabled themſelves of the en<g ref="char:EOLhyphen"/>joyment of them and ſo doing we truſt we ſhal have the concurrent aſſiſtance of (at I all wiſe not any oppoſition from any) rational Men who love Juſtice and hate Tyranny, eſpecially from you (deer friends) who together with us, have been imbarqued in the ſame ſhip, and have paſſed through man a deſperate encounter by Sea as we have by Land, all to free this poor Kingdom from Tyrannical Oppreſ<g ref="char:EOLhyphen"/>ſion, (which notwithſtanding, you and we feel too much of at this day) who we truſt with us, do hate and ſcorn to be kept any longer under bondage, having purchaſed our freedom at ſo dear a race, (though free born) We ſhal ſay no more, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deſire you to take heed of all falſe ſuggeſtions, and vain deluſion; and know this is our genuine meaning that is here before you, which [being rightly apprehended by you] we hope wil make all the attempts of men, [to di<g ref="char:EOLhyphen"/>vide you from us either by frownes, Favours, or Gra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ties, which aſſure your ſelves they wil not be writting in to accompliſh their ends] uſeleſs, and all the foods of ma<g ref="char:EOLhyphen"/>lice [by them ſown] fruitleſs, unleſs to bring about to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceive that reward for their worke which may be ſuitable to
+<pb n="10" facs="tcp:114260:7"/>
+it, and ſo in ſtead of dividing, we hope may prove ſuch an uniting that maybe as a threefold Cord that ſhal not eaſily be broken, which if it ſhal thus unite us, we ſhal rejoyce in it, and ſhal be enabled by it to go on in the proſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cution of ſo good a work til we ſee Oppreſſion, and Oppreſſers from us, and the Kingdom removed, a firm and happy peace ſet<g ref="char:EOLhyphen"/>led, a poor Kingdom from ruin and deſtruction delivered, which we hope is and ever ſhal be your and our joynt deſires &amp; endevors of all oppoſition, and in ſo doing aſſure your ſelvs againſt we are and wil be yours while you are the Kingdoms and ours, reſoluing to be either happy or miſerable together.</p>
+               <closer>
+                  <signed>
+                     <hi>Yours and the Kingdoms Servants.</hi>
+                     <list>
+                        <item>
+                           <hi>Lewes Audley.</hi>
+                        </item>
+                        <item>
+                           <hi>John Clerke.</hi>
+                        </item>
+                        <item>
+                           <hi>John Carter.</hi>
+                        </item>
+                        <item>
+                           <hi>Edm. Rolphe.</hi>
+                        </item>
+                        <item>
+                           <hi>Alex. Brafield.</hi>
+                        </item>
+                        <item>
+                           <hi>Azariah Husbands.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <item>
+                           <hi>Gen. Foot Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>Joh. Nuſon.</hi>
+                              </item>
+                              <item>
+                                 <hi>Edm. Vaughan.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Lieutenant Generals Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>William Allin</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Collonel Hammons Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>Nath. Foxgill.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Bridgeman.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Collonel Wallers Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>Henry Anderton</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Maſon.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Collonel Lamberts Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>John Millar.</hi>
+                              </item>
+                              <item>
+                                 <hi>Richard Colbrand.</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Collonel Lilburns Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>Will. Swallow.</hi>
+                              </item>
+                              <item>
+                                 <hi>Herbert Feild</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Collonel Thomlinſons Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>Barth. Willocke</hi>
+                              </item>
+                              <item>
+                                 <hi>Richard Clarke</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Collonel Hewſons Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>Edmund Garne</hi>
+                              </item>
+                              <item>
+                                 <hi>Daniel Hincksman</hi>
+                              </item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Collonel Reads Regiment.</hi>
+                           <list>
+                              <item>
+                                 <hi>Nico. Andrews</hi>
+                              </item>
+                              <item>
+                                 <hi>Ralph. R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>entis</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </signed>
+                  <dateline>S. ALBANS,
+<date>June 21. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
